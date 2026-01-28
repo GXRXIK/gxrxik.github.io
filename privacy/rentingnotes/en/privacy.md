@@ -2,55 +2,55 @@
 
 **RentingNotes**
 
-Effective Date: January 22, 2026
+**Effective Date: January 28, 2026** (Updated based on the latest features)
 
-Welcome to RentingNotes! We understand the importance of your personal information and are fully committed to protecting its security and reliability. We strive to maintain your trust and adhere to the following principles to protect your personal information: consistency of powers and responsibilities, clarity of purpose, choice and consent, minimum necessity, security assurance, subject participation, and openness and transparency.
+Welcome to RentingNotes! We understand the importance of your personal information and are committed to protecting its security and reliability. We strive to maintain your trust by adhering to principles such as accountability, purpose limitation, consent, data minimization, security, participation, and transparency.
 
-Please read and fully understand this Privacy Policy before using our products (or services).
+Please read and fully understand this Privacy Policy before using our products or services.
 
-### I. How We Collect and Use Your Information
+### 1. How We Collect and Use Your Information
 
-This application (RentingNotes) itself **does not** actively collect, store, or share any of your personally identifiable information with third parties. All your note data is stored locally on your device, and we do not have access to it.
+1. **Local Storage**: The core functional data of this application (such as your rental notes, images, etc.) is stored locally on your device. We do not have access to this private content.
+2. **Statistics and Optimization**: To improve the user experience and analyze the usage of application features, we collect **non-personally identifiable information** through third-party tools (e.g., which buttons you click, frequency of page visits, device model, system version, etc.). This data does not include your name, phone number, or the specific content of your notes.
 
-### II. Third-Party Services
+### 2. Third-Party Services
 
-To maintain the operation of the application and provide it for free, we have integrated the Google AdMob advertising service.
+To maintain application operations and continuously optimize the user experience, we have integrated the following third-party services provided by Google:
 
-1.  **About Advertising Services**
-    We use the mobile advertising service (AdMob) provided by Google. As a third-party ad provider, Google AdMob may collect and use some of your information to serve more relevant ads.
+1. **Google AdMob (Advertising Service)**  
+   Used to display advertisements to you. AdMob may collect your IP address, advertising identifiers (IDFA/GAID), and data related to your interactions with ads to deliver relevant advertising and prevent fraud.
 
-2.  **Data AdMob May Collect**
-    The Google Mobile Ads SDK automatically collects certain data for purposes such as advertising, analytics, and fraud prevention. This data may include:
-    *   **IP address**: May be used to estimate the general location of the device.
-    *   **User product interactions**: Such as app launches, taps, and video views.
-    *   **Diagnostic information**: Information related to the performance of the app and the SDK, such as app launch time, crash rates, or energy usage.
-    *   **Device and account identifiers**: Such as the Android advertising ID (ad ID), app set ID, and other identifiers related to accounts signed in on the device.
+2. **Firebase Analytics (Analytics Service)**  
+   We use Firebase (Google Analytics for Firebase) to track **custom events** within the app.
+   * **Data Collected Includes**: App launch counts, page navigation paths, frequency of specific feature usage (custom events), device information (model, operating system), app crash logs, etc.
+   * **Purpose of Use**: To help us understand which features users prefer, identify and fix program errors, and optimize app performance.
+   * **Anonymity**: Data collected by Firebase is anonymized; we cannot identify specific individual users through this data.
 
-    All user data collected by the Google Mobile Ads SDK is encrypted in transit using the Transport Layer Security (TLS) protocol.
+3. **Data Security**  
+   All data collected by the aforementioned third-party services is encrypted using Transport Layer Security (TLS) during transmission.
 
-3.  **Third-Party Privacy Policies**
-    We recommend that you review Google's privacy policy to understand its data collection and usage practices in detail. You can access it through the following links:
-    *   [Google Privacy Policy](https://policies.google.com/privacy)
-    *   [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+4. **Third-Party Privacy Policies**  
+   We recommend reviewing Google's privacy policies for more details:
+   * [Google Privacy Policy](https://policies.google.com/privacy)
+   * [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+   * [Privacy and Security in Firebase](https://firebase.google.com/support/privacy)
 
-### III. User Feedback
+### 3. User Feedback
 
-When you contact us through the "Feedback" feature, we receive your email address and the information you provide in the email. This information is used solely to communicate with you, resolve the issues you have raised, and improve our application. We will not use this information for any other purpose, nor will we share it with any third parties.
+When you contact us through the "Feedback" feature, we receive your email address and any information you provide in the message. This information is used solely to communicate with you, resolve your issues, and improve our application. We will not use this information for any other purpose or share it with any third party.
 
-### IV. Information Storage
+### 4. Data Storage
 
-All user-generated content (such as notes) in this application is stored on your personal device. We do not store this information on our servers.
+All user-generated content (such as notes) in this application is stored on your personal device. Except for the anonymous statistical data used for analytics and advertising mentioned above, we do not store any of your private information on our servers.
 
-### V. Children's Privacy
+### 5. Children's Privacy
 
 Our services are not directed to children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that we have inadvertently collected such information, we will immediately delete it from our records.
 
-### VI. Changes to This Privacy Policy
+### 6. Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-### VII. Contact Us
+### 7. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at gxrxij@outlook.com.
-
-
+If you have any questions or suggestions regarding our Privacy Policy, please feel free to contact us at: gxrxij@outlook.com.
