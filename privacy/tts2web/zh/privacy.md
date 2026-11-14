@@ -14,24 +14,25 @@
 
 ### 二、第三方服务
 
-为了维持应用的运营和免费服务，我们集成了 Google AdMob 广告服务。
+为了维持应用的运营和免费服务，并分析应用性能与用户互动以改善产品体验，我们集成了 Google AdMob 广告服务与 Google Firebase 统计服务（Firebase Analytics）。
 
-1. **关于广告服务**
-   我们使用 Google 提供的移动广告服务（AdMob）。Google AdMob 作为第三方广告提供商，为了投放更具相关性的广告，可能会收集和使用您的部分信息。
-2. **AdMob 可能收集的数据**
-   Google Mobile Ads SDK 会自动收集某些数据，用于广告、分析和欺诈预防等目的。这些数据可能包括：
+1. **关于广告与统计服务**
+   我们使用 Google 提供的移动广告服务（AdMob）及应用分析服务（Firebase Analytics）。这些第三方服务提供商可能会收集和使用您的部分设备及交互数据。
+2. **收集的数据类型**
+   Google AdMob SDK 与 Firebase Analytics SDK 会自动收集某些数据，用于广告投放、性能分析和产品改进等目的。这些数据可能包括：
 
    * **IP 地址**：可能用于估算设备的大致位置。
-   * **用户产品互动信息**：例如应用启动、点击和视频观看等互动。
-   * **诊断信息**：与应用和 SDK 性能相关的信息，例如应用启动时间、崩溃率或电量使用情况。
-   * **设备和账户标识符**：例如安卓广告ID (ad ID)、应用集ID以及与设备上登录的账户相关的其他标识符。
+   * **用户产品互动信息**：例如应用启动、页面浏览、功能使用情况、点击和视频观看等互动。
+   * **诊断与性能信息**：与应用和 SDK 性能相关的信息，例如应用启动时间、崩溃日志、性能诊断或电量使用情况。
+   * **设备和账户标识符**：例如安卓广告ID (ad ID)、应用实例 ID (App Instance ID) 以及与设备相关的标识符。
 
-3. 所有由 Google Mobile Ads SDK 收集的用户数据在传输过程中均使用传输层安全协议 (TLS) 进行加密。 
+3. 所有由 Google SDK 收集的用户数据在传输过程中均使用传输层安全协议 (TLS) 进行加密。 
 4. **第三方隐私政策**
    我们建议您查阅 Google 的隐私政策，以详细了解其数据收集和使用惯例。您可以通过以下链接访问：
 
    * [Google 隐私权政策](https://policies.google.com/privacy)
    * [Google 如何使用合作伙伴网站或应用中的信息](https://policies.google.com/technologies/partner-sites)
+   * [Firebase 隐私权与安全指南](https://firebase.google.com/support/privacy)
 
    ### 三、用户反馈
 

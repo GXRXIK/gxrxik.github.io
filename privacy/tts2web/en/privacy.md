@@ -14,24 +14,25 @@ This application (TTS2Web) itself **does not** actively collect, store, or share
 
 ### II. Third-Party Services
 
-To maintain the operation of the application and provide it for free, we have integrated the Google AdMob advertising service.
+To maintain the operation of the application, provide free services, and analyze app performance and user interactions to improve product experience, we have integrated the Google AdMob advertising service and Google Firebase Analytics service.
 
-1.  **About Advertising Services**
-    We use the mobile advertising service (AdMob) provided by Google. As a third-party ad provider, Google AdMob may collect and use some of your information to serve more relevant ads.
+1.  **About Advertising and Analytics Services**
+    We use the mobile advertising service (AdMob) and app analytics service (Firebase Analytics) provided by Google. These third-party service providers may collect and use some of your device and interaction data.
 
-2.  **Data AdMob May Collect**
-    The Google Mobile Ads SDK automatically collects certain data for purposes such as advertising, analytics, and fraud prevention. This data may include:
-    *   **IP address**: May be used to estimate the general location of the device.
-    *   **User product interactions**: Such as app launches, taps, and video views.
-    *   **Diagnostic information**: Information related to the performance of the app and the SDK, such as app launch time, crash rates, or energy usage.
-    *   **Device and account identifiers**: Such as the Android advertising ID (ad ID), app set ID, and other identifiers related to accounts signed in on the device.
+2.  **Data Collected by SDKs**
+    The Google Mobile Ads SDK and Firebase Analytics SDK automatically collect certain data for purposes such as advertising, performance analytics, and product improvement. This data may include:
+    *   **IP address**: May be used to estimate the general location of the device.
+    *   **User product interactions**: Such as app launches, page views, feature usage, taps, and video views.
+    *   **Diagnostic and performance information**: Information related to app and SDK performance, such as app launch time, crash logs, performance diagnostics, or energy usage.
+    *   **Device and account identifiers**: Such as the Android advertising ID (ad ID), app instance ID, and device-related identifiers.
 
-    All user data collected by the Google Mobile Ads SDK is encrypted in transit using the Transport Layer Security (TLS) protocol.
+    All user data collected by Google SDKs is encrypted in transit using the Transport Layer Security (TLS) protocol.
 
 3.  **Third-Party Privacy Policies**
-    We recommend that you review Google's privacy policy to understand its data collection and usage practices in detail. You can access it through the following links:
-    *   [Google Privacy Policy](https://policies.google.com/privacy)
-    *   [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+    We recommend that you review Google's privacy policy and Firebase's privacy guidelines to understand their data collection and usage practices in detail. You can access them through the following links:
+    *   [Google Privacy Policy](https://policies.google.com/privacy)
+    *   [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+    *   [Firebase Privacy and Security Guide](https://firebase.google.com/support/privacy)
 
 ### III. User Feedback
 
